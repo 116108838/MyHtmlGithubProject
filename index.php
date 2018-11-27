@@ -18,7 +18,7 @@
 
 
 	<script>
-	var firstNum =0;
+	var firstNum =54;
 	var secondNum=0;
 	var total = firstNum + secondNum;
 	
