@@ -7,13 +7,13 @@
 	<body>
 	
 	<h1>heading will always break line	</h1>
-	<p>........ para lines are broken like this </br>	</p>
+	<p>........ para lines are broken like 	</p>
 	
 
 		<input id="firstNum" type"firstNum">
 	<input id="secondNum" type"secondNum">
 
-	<button id = " Add" type="button" onclick="myFunction()">add this</button>
+	<button id = " Add" type="button" onclick="myFunction()">add that shit </button>
 	
 
 
